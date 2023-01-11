@@ -20,7 +20,7 @@
   border-radius: 50%;
   border: 3px solid black;
   position: relative;
-  background: url(asset/wall.jpg) center center;
+  background: url("./assets/wall.jpg") center center;
   background-size: cover;
 }
 .wrapper .clock .number {
